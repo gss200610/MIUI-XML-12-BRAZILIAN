@@ -10,6 +10,8 @@
         <item>10 minutos</item>
         <item>20 minutos</item>
         <item>30 minutos</item>
+        <item>40 minutos</item>
+        <item>50 minutos</item>
         <item>60 minutos</item>
     </string-array>
     <string-array name="app_commute_tab_array">
@@ -44,4 +46,14 @@
         <item>Vermelho - cima, verde - baixo</item>
         <item>Verde - cima, vermelho - baixo</item>
     </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Domingo</item>
+        <item>Segunda</item>
+        <item>Terça</item>
+        <item>Quarta</item>
+        <item>Quinta</item>
+        <item>Sexta</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+    </string-array>	
 </resources>
