@@ -104,6 +104,7 @@
   <string name="character_counter_overflowed_content_description">Limite de caracteres excedido %1$d de %2$d</string>
   <string name="chip_text">Texto do chip</string>
   <string name="clean_hint">Toque para liberar espaço</string>
+  <string name="clean_hint_pad">Limpe o lixo para liberar espaço de armazenamento</string>
   <string name="clear_text_end_icon_content_description">Limpar texto</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="click_to_switch_volume">Toque para mudar entre armazenamento interno e cartão SD</string>
@@ -329,7 +330,7 @@
   <string name="make_private">Ocultar</string>
   <string name="make_private_msg_1">Ocultar este arquivo?</string>
   <string name="make_private_msg_2">Ocultar estes arquivo?</string>
-  <string name="make_private_msg_3">Todos os arquivos nesta pasta vão ser ocultos</string>
+  <string name="make_private_msg_3">Todos os arquivos nesta pasta serão ocultados</string>
   <string name="material_slider_range_end">Fim do intervalo,</string>
   <string name="material_slider_range_start">Início do intervalo,</string>
   <string name="megabyteShort">"MB"</string>
@@ -515,8 +516,8 @@
   <string name="operation_decompressing">Extraindo…</string>
   <string name="operation_del_fav">Removendo dos favoritos…</string>
   <string name="operation_delete">Excluir</string>
-  <string name="operation_delete_confirm_message">Excluir arquivos?</string>
-  <string name="operation_delete_confirm_message_folder">Todos os conteúdos da pasta serão excluídos.</string>
+  <string name="operation_delete_confirm_message">Exclusão de arquivos</string>
+  <string name="operation_delete_confirm_message_folder">"Todos os conteúdos da pasta serão excluídos. "</string>
   <string name="operation_deleting">Excluindo…</string>
   <string name="operation_encrypt_summary">"Criptografe os arquivos na pasta privada.
 A descriptografia de arquivos grandes pode demorar mais do que o esperado."</string>

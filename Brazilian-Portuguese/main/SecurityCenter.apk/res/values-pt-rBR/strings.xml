@@ -148,7 +148,7 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Atualizado há 2 dias</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Atualizado ontem às %s</string>
   <string name="adjust_traffic_data">Definir uso de dados</string>
-  <string name="after_the_lock_screen">Bloquear apps junto com a tela</string>
+  <string name="after_the_lock_screen">Bloquear app junto com a tela</string>
   <string name="afternoon">"PM"</string>
   <string name="ai_allow_all">Decida por mim em todas as situações</string>
   <string name="alert_back_diving_mode_summary">Desativar o Modo imersivo agora?</string>
@@ -606,7 +606,7 @@ Você não perderá nenhum dado de apps."</string>
   <string name="applock_bind_account_dialog_content">Sua Conta Mi é a única forma de restaurar seu Bloqueio de apps caso o esqueça. Faça o login para adicionar a sua Conta Mi.</string>
   <string name="applock_bind_account_dialog_title">Adicione sua Conta Mi</string>
   <string name="applock_bind_account_title">Esqueci a senha</string>
-  <string name="applock_close_dialog_summary">Todos os apps ocultos serão reexibidos, seus atalhos na Tela inicial serão restaurados, e a sua senha de Bloqueio de apps será excluída. Desativar o Bloqueio de apps?</string>
+  <string name="applock_close_dialog_summary">Sua senha de Bloqueio de apps será excluída. Desativar o Bloqueio de apps?</string>
   <string name="applock_close_dialog_title">Desativar o Bloqueio de apps?</string>
   <string name="applock_exit_account_info">A conta será removida automaticamente quando você fizer o logout</string>
   <string name="applock_face_unlock_summary">Desbloquear apps usando dados faciais</string>
@@ -962,6 +962,10 @@ Você não perderá nenhum dado de apps."</string>
   <string name="cetus_invisible_mode_warn_location">Modo incógnito ativado. As permissões de localização estão suspensas.</string>
   <string name="cetus_invisible_mode_warn_open">O Modo incógnito suspende o acesso a câmera, microfone e permissões relacionadas à localização para todos os apps. Ativar agora?</string>
   <string name="cetus_invisible_mode_warn_record_audio">Modo incógnito ativado. As permissões de microfone estão suspensas.</string>
+  <string name="charge_high_temp_warning_dialog_ok">Entendi</string>
+  <string name="charge_high_temp_warning_dialog_text">Parece que a porta de carregamento está superaquecida. Desconecte o carregador e deixe a bateria esfriar antes de começar a carregar novamente.</string>
+  <string name="charge_high_temp_warning_text">Desconecte o carregador e deixe a bateria esfriar</string>
+  <string name="charge_high_temp_warning_title">A porta de carregamento está muito quente</string>
   <string name="charger_detect_button_ok">Entendi</string>
   <string name="charger_detect_info1">Verifique se o adaptador de energia e o cabo estão conectados adequadamente.</string>
   <string name="charger_detect_info2">O carregamento também pode ser reduzido se você estiver usando adaptadores de energia ou cabos não-oficiais.</string>
@@ -1851,7 +1855,7 @@ Grave sequências e use-as a qualquer momento!"</string>
   <string name="gb_performance_balance">Modo balanceado</string>
   <string name="gb_performance_high">Modo desempenho</string>
   <string name="gb_performance_mode">Modo jogo</string>
-  <string name="gb_performance_tips">"Usar o Modo de desempenho por um longo tempo,
+  <string name="gb_performance_tips">"Usar o Modo desempenho por um longo tempo,
 pode descarregar a bateria e levar ao superaquecimento"</string>
   <string name="gb_shortcut_pref_title">Atalho na Tela inicial</string>
   <string name="gb_shoulder_key">Botões superiores</string>
@@ -2004,7 +2008,7 @@ das suas sessões de jogos"</string>
   <string name="gs_only_self_start_for_list">Restringir processos em 2º plano para economizar bateria</string>
   <string name="gs_open_game_booster">Otimizar velocidade</string>
   <string name="gs_open_game_booster_summary">Otimize a velocidade de rede para jogos</string>
-  <string name="gs_performance_mode">Modo Desempenho</string>
+  <string name="gs_performance_mode">Modo desempenho</string>
   <string name="gs_performance_mode_detail">Otimize o desempenho do sistema para jogos</string>
   <string name="gs_show_way">Orientação da página inicial</string>
   <string name="gs_show_way_horizontal">Horizontal</string>
@@ -2607,7 +2611,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="notification_link_optimizemanage_1011">%d%% da memória em uso. Limpe-a agora.</string>
   <string name="notification_low_battery_need_charge">Conecte o carregador</string>
   <string name="notification_low_battery_open_save_mode">Ative a Economia de bateria</string>
-  <string name="notification_low_battery_title">Restando menos de %s de bateria</string>
+  <string name="notification_low_battery_title">Menos de %s de bateria</string>
   <string name="notification_low_memory_button_text">Corrigir</string>
   <string name="notification_low_memory_hint">O lixo deixa seu dispositivo lento</string>
   <string name="notification_low_memory_text">Pouca memória</string>
@@ -2616,7 +2620,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="notification_low_storage_size_1p5_gb_hint">Limpe o lixo para acelerar o seu dispositivo</string>
   <string name="notification_mask_summary">Não mostrar o conteúdo das notificações para apps protegidos</string>
   <string name="notification_mask_title">Ocultar o conteúdo das notificações</string>
-  <string name="notification_masked_item">Gostaria de ocultar o conteúdo das notificações?</string>
+  <string name="notification_masked_item">Ocultar o conteúdo das notificações?</string>
   <string name="notification_masked_subtitle">O Bloqueio de apps faz todo o trabalho</string>
   <string name="notification_optimize_button_text">Limpar</string>
   <string name="notification_optimize_message">Limpe a memória para acelerar a velocidade</string>
@@ -2809,7 +2813,7 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pc_hidemode_normal_title">Modo equilibrado</string>
   <string name="pc_hidemode_performance">Desempenho</string>
   <string name="pc_hidemode_performance_title">Modo desempenho</string>
-  <string name="pc_hidemode_power_save">Economia de energia</string>
+  <string name="pc_hidemode_power_save">Econômico</string>
   <string name="pc_install_manager">Instalar via USB</string>
   <string name="pc_main_activity_back">Voltar</string>
   <string name="pc_main_battery_text_day">%1$sm adicionado, cerca de %2$sd restante(s)</string>
@@ -2821,11 +2825,12 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm até carregar totalmente</string>
   <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh restante(s)</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm restante(s)</string>
-  <string name="pc_performance_mode_dialog_summary">Seu dispositivo poderá funcionar por %s no Modo performance. Observe que o Modo performance aumenta o consumo de energia e pode levar ao superaquecimento.</string>
-  <string name="pc_performance_mode_dialog_summary2">O desempenho do dispositivo irá melhorar. Isso pode aumentar o consumo de energia e causar problemas de superaquecimento. Ativar mesmo assim?</string>
-  <string name="pc_performance_mode_dialog_title">Modo performance</string>
-  <string name="pc_performance_mode_noti_summary">O Modo desempenho pode aumentar o consumo de energia e levar a problemas de superaquecimento</string>
-  <string name="pc_performance_mode_noti_title">Melhor desempenho do dispositivo</string>
+  <string name="pc_performance_mode_dialog_summary">Seu dispositivo poderá funcionar por %s no Modo desempenho. Observe que o Modo desempenho aumenta o consumo de energia e pode levar ao superaquecimento.</string>
+  <string name="pc_performance_mode_dialog_summary2">"Este modo irá melhorar o desempenho do dispositivo, entretanto isso pode aumentar o consumo de energia e causar problemas de superaquecimento.
+Ativar mesmo assim?"</string>
+  <string name="pc_performance_mode_dialog_title">Modo desempenho</string>
+  <string name="pc_performance_mode_noti_summary">Aumenta o consumo de energia e pode levar a problemas de superaquecimento</string>
+  <string name="pc_performance_mode_noti_title">Melhor desempenho</string>
   <string name="pc_search_keywords_battery">Bateria</string>
   <string name="pc_search_keywords_battery_save">Economia de bateria</string>
   <string name="pc_search_keywords_battery_use">Uso da bateria</string>
@@ -3396,10 +3401,11 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="privacy_app_behavior_title">Histórico de comportamento de apps</string>
   <string name="privacy_app_permission_manage_summary">Gerenciar permissões de apps instalados</string>
   <string name="privacy_app_permission_manage_title">Gerenciar permissões</string>
-  <string name="privacy_apps">Apps ocultos</string>
+  <string name="privacy_apps">Ocultar apps</string>
+  <string name="privacy_apps_add">Adicionar</string>
   <string name="privacy_apps_begin_use">Iniciar</string>
   <string name="privacy_apps_button_know">Entendi</string>
-  <string name="privacy_apps_category_title">Apps ocultos</string>
+  <string name="privacy_apps_category_title">Ocultar apps</string>
   <string name="privacy_apps_checkbox_remind_choice">Não mostrar novamente</string>
   <string name="privacy_apps_close">Fechar</string>
   <string name="privacy_apps_enable_summary">Mova apps para uma pasta oculta e remova seus atalhos da Tela inicial</string>
@@ -3408,13 +3414,17 @@ Tente usar outro cabo de rede para conectar seu roteador. Caso você suspeite qu
   <string name="privacy_apps_manage_dialog_title">Sobre os apps ocultos</string>
   <string name="privacy_apps_manager_dialog_message">O ícone deste app não será exibido na Tela inicial depois que ocultá-lo. Ocultar este app agora?</string>
   <string name="privacy_apps_next_stup">Avançar</string>
-  <string name="privacy_apps_shield_message_summary">Não mostrar notificações para apps protegidos</string>
-  <string name="privacy_apps_shield_message_title">Não mostrar notificações</string>
-  <string name="privacy_apps_tutorial">Tutorial</string>
-  <string name="privacy_apps_tutorial_dlg_title">Como encontrar apps ocultos</string>
+  <string name="privacy_apps_password_enable_summay">Proteja arquivos privados com o Bloqueio de apps</string>
+  <string name="privacy_apps_password_enable_title">Bloqueio de apps</string>
+  <string name="privacy_apps_shield_message_summary">Não mostrar notificações para apps ocultos</string>
+  <string name="privacy_apps_shield_message_title">Ocultar notificações</string>
+  <string name="privacy_apps_tutorial">Gestos</string>
+  <string name="privacy_apps_tutorial_dlg_message_1">Afaste dois dedos na Tela inicial para ver os apps ocultos</string>
+  <string name="privacy_apps_tutorial_dlg_message_2">Nota: quando você oculta um app, apenas o atalho da Tela inicial fica oculto.</string>
+  <string name="privacy_apps_tutorial_dlg_title">Encontrando apps ocultos</string>
   <string name="privacy_apps_tutorial_prompt_pageone">Este recurso permite que você oculte ícones de apps para que eles não apareçam na sua Tela inicial.</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Depois de inserir a senha, a pasta com os apps ocultos aparecerá.</string>
-  <string name="privacy_apps_tutorial_prompt_pagetwo">Use o gesto de pinça na tela. Você verá uma mensagem solicitando a sua senha de Bloqueio de apps.</string>
+  <string name="privacy_apps_tutorial_prompt_pagetwo">Afaste dois dedos na tela. Você verá uma mensagem solicitando a sua senha de Bloqueio de apps.</string>
   <string name="privacy_danger_permission_status_summary">Gerenciar apps que solicitam permissões sensíveis</string>
   <string name="privacy_danger_permission_status_title">Ações sensíveis</string>
   <string name="privacy_danger_permission_summary">Monitore como apps usam suas permissões</string>
@@ -3582,6 +3592,12 @@ Enquanto calibra, a MIUI vai enviar uma mensagem de texto para receber os modelo
   <string name="privacy_search_key_7">Informações de localização</string>
   <string name="privacy_search_key_8">Não rastrear</string>
   <string name="privacy_search_key_9">ID Virtual</string>
+  <string name="privacy_search_keyword_1">Privacidade</string>
+  <string name="privacy_search_keyword_2">Ocultar apps</string>
+  <string name="privacy_search_keyword_3">Ocultar ícones</string>
+  <string name="privacy_search_keyword_4">Ocultar atalhos da Tela inicial</string>
+  <string name="privacy_search_keyword_5">Apps privados</string>
+  <string name="privacy_search_keyword_6">Ocultar</string>
   <string name="privacy_show_other_permissions">Mostrar outras permissões</string>
   <string name="privacy_show_password">Mostrar senhas</string>
   <string name="privacy_show_password_summary">Manter senhas visíveis por um curto período de tempo</string>
@@ -4375,7 +4391,7 @@ A formatação apagará o conteúdo existente no ^2. Para evitar a perda de dado
   <string name="superpower_notification_summary">Carregue o seu dispositivo ou ative a Ultra economia de bateria</string>
   <string name="superpower_notification_time_12">"EEEE, dd 'de' MMMM"</string>
   <string name="superpower_notification_time_24">"EEEE, dd 'de' MMMM"</string>
-  <string name="superpower_notification_title_new">Restando menos de %s de bateria</string>
+  <string name="superpower_notification_title_new">Menos de %s de bateria</string>
   <string name="superpower_progress_content">Ativando a Ultra economia de bateria…</string>
   <string name="superpower_progress_left_time">%1$dh %2$dm</string>
   <string name="superpower_progress_switch_home">Alternando para o Tema escuro</string>
