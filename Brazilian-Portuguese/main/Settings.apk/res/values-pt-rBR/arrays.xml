@@ -202,7 +202,7 @@
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite padrão</item>
-        <item>Nenhum processo em 2º plano</item>
+        <item>Nenhum processo em 2° plano</item>
         <item>No máximo 1 processo</item>
         <item>No máximo 2 processos</item>
         <item>No máximo 3 processos</item>
@@ -258,15 +258,15 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Usar preferência do sistema (Padrão)</item>
-        <item>16 bits/amostra</item>
-        <item>24 bits/amostra</item>
-        <item>32 bits/amostra</item>
+        <item>16 bits/amostragem</item>
+        <item>24 bits/amostragem</item>
+        <item>32 bits/amostragem</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
         <item>Usar preferência do sistema (Padrão)</item>
-        <item>16 bits/amostra</item>
-        <item>24 bits/amostra</item>
-        <item>32 bits/amostra</item>
+        <item>16 bits/amostragem</item>
+        <item>24 bits/amostragem</item>
+        <item>32 bits/amostragem</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
         <item>Usar preferência do sistema (Padrão)</item>
@@ -275,7 +275,7 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
         <item>Usar preferência do sistema (Padrão)</item>
-        <item>"Mono"</item>
+        <item>Mono</item>
         <item>Estéreo</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
@@ -337,9 +337,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ adaptável</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>"LHDC V3/V4"</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Ativar codecs opcionais</item>
         <item>Desativar codecs opcionais</item>
     </string-array>
@@ -352,14 +352,14 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ adaptável</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>"LHDC V3/V4"</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Ativar codecs opcionais</item>
         <item>Desativar codecs opcionais</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
-        <item/>
+        <item></item>
         <item>" | Ativo"</item>
         <item>" | Ativo (mídia)"</item>
         <item>" | Ativo (telefone)"</item>
@@ -756,11 +756,6 @@
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
-    <string-array name="color_game_led_freq_entries">
-        <item>A cada 2 segundos</item>
-        <item>A cada 3 segundos</item>
-        <item>A cada 5 segundos</item>
-    </string-array>
     <string-array name="color_mode_descriptions">
         <item>Cores aprimoradas</item>
         <item>Cores naturais, como vistas pelos olhos</item>
@@ -792,8 +787,8 @@
         <item>Alta velocidade</item>
     </string-array>
     <string-array name="dark_ui_mode_entries">
-        <item>Ativado</item>
-        <item>Desativado</item>
+        <item>Escuro</item>
+        <item>Claro</item>
     </string-array>
     <string-array name="data_usage_data_range">
         <item>Últimos 30 dias</item>
@@ -821,10 +816,6 @@
         <item>Desativado</item>
         <item>Mostrar áreas de overdraw</item>
         <item>Mostrar áreas para Deuteronomia</item>
-    </string-array>
-    <string-array name="default_vol_stream_entries">
-        <item>Toque</item>
-        <item>Mídia</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nunca</item>
@@ -992,13 +983,13 @@
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>O armazenamento USB abrirá automaticamente ao ser conectado a um computador.</item>
-        <item/>
+        <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_summary">
         <item>2. Siga as instruções na tela</item>
-        <item/>
-        <item/>
-        <item/>
+        <item></item>
+        <item></item>
+        <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Instale as ferramentas: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
@@ -1090,11 +1081,11 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>CDMA sem EvDo</item>
         <item>Somente EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>CDMA+LTE/EvDo</item>
+        <item>CDMA + LTE/EvDo</item>
         <item>GSM/WCDMA/LTE</item>
         <item>Global</item>
         <item>LTE</item>
-        <item>LTE/WCDMA</item>
+        <item>LTE / WCDMA</item>
         <item>Somente TDSCDMA</item>
         <item>TDSCDMA/WCDMA</item>
         <item>LTE/TDSCDMA</item>
@@ -1138,7 +1129,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Principal atividade</item>
         <item>Importante (primeiro plano)</item>
         <item>Importante (segundo plano)</item>
-        <item>"Backup"</item>
+        <item>Backup</item>
         <item>Uso intenso</item>
         <item>Serviço (em execução)</item>
         <item>Serviço (reiniciando)</item>
@@ -1180,12 +1171,12 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Mostrar menu</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Ajustar cores com base no conteúdo exibido</item>
+        <item>Ajustar cores com base na iluminação atual</item>
         <item>Sempre aprimorar cores</item>
         <item>O contraste permanecerá constante</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>Vívido (recomendado)</item>
+        <item>Automático (recomendado)</item>
         <item>Saturada</item>
         <item>Padrão</item>
     </string-array>
@@ -1275,18 +1266,14 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Permitir</item>
         <item>Recusar</item>
     </string-array>
-    <string-array name="status_bar_settings_qs_layout_entries">
-        <item>Padrão</item>
-        <item>Compacto</item>
-    </string-array>
     <string-array name="tabs_taptic_detail">
         <item>Nítido</item>
         <item>Suave</item>
         <item>Pop-up</item>
     </string-array>
     <string-array name="time_format_entries">
-        <item>12 horas | 1:00 PM</item>
-        <item>24 horas | 13:00</item>
+        <item>12 horas 1:00 PM</item>
+        <item>24 horas 13:00</item>
         <item>Automático (baseado no idioma do sistema)</item>
     </string-array>
     <string-array name="timezone_filters">
@@ -1322,12 +1309,12 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Escala de animação 10x</item>
     </string-array>
     <string-array name="true_color_screen_optimize_summary">
-        <item>Ajusta as cores com base no conteúdo exibido</item>
+        <item>Ajusta as cores com base na iluminação atual</item>
         <item>Sempre aprimora as cores</item>
         <item>Restaura a cor padrão do conteúdo da tela com a calibração de cores</item>
     </string-array>
     <string-array name="true_color_screen_optimize_title">
-        <item>Vívido (recomendado)</item>
+        <item>Automático (recomendado)</item>
         <item>Saturado</item>
         <item>Cor original</item>
     </string-array>
@@ -1358,9 +1345,9 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Carregando</item>
         <item>MTP (Protocolo de transferência de mídia)</item>
         <item>PTP (Protocolo de transferência de imagem)</item>
-        <item>"RNDIS (USB Ethernet)"</item>
+        <item>RNDIS (USB Ethernet)</item>
         <item>Fonte de áudio</item>
-        <item>"MIDI"</item>
+        <item>MIDI</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Perguntar na conexão</item>
@@ -1371,7 +1358,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>De qualquer pessoa</item>
         <item>Apenas de contatos</item>
         <item>Apenas de contatos favoritos</item>
-        <item>Não notificar</item>
+        <item>Nenhum</item>
     </string-array>
     <string-array name="vpn_proxy_settings">
         <item>Nenhum</item>
@@ -1416,23 +1403,23 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Porcentagem (próxima ao ícone na Área de notificações)</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
-        <item>"Wi-Fi"</item>
+        <item>Wi-Fi</item>
         <item>Celular</item>
         <item>Somente Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
         <item>Preferir Ims</item>
-        <item>"Wi-Fi"</item>
+        <item>Wi-Fi</item>
         <item>Celular</item>
         <item>Somente Wi-Fi</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
-        <item>"Wi-Fi"</item>
+        <item>Wi-Fi</item>
         <item>Celular</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
         <item>Preferir Ims</item>
-        <item>"Wi-Fi"</item>
+        <item>Wi-Fi</item>
         <item>Celular</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
@@ -1512,7 +1499,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Conectar manualmente</item>
     </string-array>
     <string-array name="wifi_status">
-        <item/>
+        <item></item>
         <item>Procurando…</item>
         <item>Conectando…</item>
         <item>Autenticando…</item>
@@ -1526,7 +1513,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Temporariamente evitando uma conexão ruim</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
-        <item/>
+        <item></item>
         <item>Procurando…</item>
         <item>Conectando-se a %1$s…</item>
         <item>Autenticando com a %1$s…</item>
@@ -1547,5 +1534,19 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Escala de animação 2x</item>
         <item>Escala de animação 5x</item>
         <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="default_vol_stream_entries">
+        <item>Toque</item>
+        <item>Mídia</item>
+    </string-array>
+    <string-array name="status_bar_settings_qs_layout_entries">
+        <item>Padrão</item>
+        <item>Compacto</item>
+    </string-array>
+    <string-array name="charge_animation_style_entries">
+        <item>Desativado</item>
+        <item>Fluxo</item>
+        <item>Brilho</item>
+        <item>Onda</item>
     </string-array>
 </resources>
