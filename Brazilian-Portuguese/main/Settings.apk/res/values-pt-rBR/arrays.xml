@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<<<<<<< HEAD
 	<string-array name="agps_network_entries">
 		<item>Rede doméstica</item>
 		<item>Todas as redes</item>
@@ -2283,7 +2282,7 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
 		<item>wifi</item>
 		<item>lanterna</item>
 		<item>mudo</item>
-		<item>captura</item>
+		<item>captura de tela</item>
 		<item>bt</item>
 		<item>modo avião</item>
 		<item>bloqueio tela</item>
@@ -2836,7 +2835,6 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
 		<item>2</item>
 		<item>3</item>
 	</string-array>
-=======
     <string-array name="agps_network_entries">
         <item>Rede doméstica</item>
         <item>Todas as redes</item>
@@ -4386,5 +4384,4 @@ Atenção: Apenas para Ubuntu 8.04!"</item>
         <item>Brilho</item>
         <item>Onda</item>
     </string-array>
->>>>>>> 9772ecca006081f1a4f2f0d406d9e0b2d90eff09
 </resources>

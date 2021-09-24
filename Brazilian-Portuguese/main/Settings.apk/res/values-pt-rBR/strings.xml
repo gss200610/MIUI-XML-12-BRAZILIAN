@@ -993,6 +993,7 @@ Os backups são armazenados na Xiaomi Cloud e podem ser acessados pela Internet.
     <string name="battery_suggestion_title">Melhorar a duração da bateria do telefone</string>
     <string name="battery_summary">%1$s de uso desde a última carga completa</string>
     <string name="battery_tip_dialog_message">"O smartphone foi usado além do normal. É possível que a bateria acabe antes do esperado.
+
 Apps que mais usam bateria:"</string>
     <string name="battery_tip_dialog_message_footer">Inclui atividade em segundo plano com alto consumo de energia</string>
     <string name="battery_tip_dialog_summary_message">"Seus apps estão consumindo uma quantidade normal de bateria. Se o consumo for excessivo, algumas ações serão sugeridas no smartphone.
@@ -4279,7 +4280,10 @@ dígitos que o PIN do Primeiro Espaço."</string>
     <string name="mashup_sound_amazon">Floresta tropical</string>
     <string name="mashup_sound_arctic">O Ártico</string>
     <string name="mashup_sound_australia">Austrália</string>
-    <string name="master_clear_accounts">"No momento você está conectado às seguintes contas:"</string>
+    <string name="master_clear_accounts">"
+
+No momento você está conectado às seguintes contas:
+"</string>
     <string name="master_clear_all">Apagar todos os dados do armazenamento interno do seu dispositivo? Você não pode reverter esta ação.</string>
     <string name="master_clear_apply_step_1"><b>Redefinir o telefone apagará todos os dados em seu dispositivo</b>, incluindo fotos, músicas, anotações, e outros dados pessoais. Certifique-se de que você tenha um backup de todos os seus itens importantes em um computador, por exemplo.</string>
     <string name="master_clear_apply_step_2">Certifique-se de que você tenha um backup de todos os seus itens importantes em um computador. Todos os dados neste dispositivo serão apagados durante a restauração. <b>Você não será capaz de salvar itens dos quais você não fizer o backup.</b></string>
@@ -9488,9 +9492,9 @@ Atualizar configurações para:
     <string name="additional_tiles_entries_papermode">Modo de leitura</string>
     <string name="additional_tiles_entries_quietmode">Não perturbe</string>
     <string name="additional_tiles_entries_rotation">Auto rotação</string>
-    <string name="additional_tiles_entries_screenbutton">ScreenButton.</string>
+    <string name="additional_tiles_entries_screenbutton">Botão tela</string>
     <string name="additional_tiles_entries_screenlock">Bloqueio de tela</string>
-    <string name="additional_tiles_entries_screenshot">Screenshot.</string>
+    <string name="additional_tiles_entries_screenshot">Captura de Tela</string>
     <string name="additional_tiles_entries_sync">Sincronização</string>
     <string name="additional_tiles_entries_vibrate">Vibração</string>
     <string name="additional_tiles_entries_wifi">Wi-Fi</string>
@@ -9531,11 +9535,11 @@ Atualizar configurações para:
     <string name="avatar_diameter">O tamanho da foto</string>
     <string name="background_color_off">Papel de parede de bloqueio de tela</string>
     <string name="background_color_on">Predefinição</string>
-    <string name="background_color_title">Chamada de fundo.</string>
+    <string name="background_color_title">Cor de  chamada em segundo plano.</string>
     <string name="background_of_call">O fundo da chamada</string>
-    <string name="background_of_disabled_tile">Fundo de telha com deficiência</string>
-    <string name="background_of_enabled_tile">Fundo do telha habilitado</string>
-    <string name="bar_name_title">Ocultar etiquetas do ícone no bar</string>
+    <string name="background_of_disabled_tile">Fundo de azulejo com deficiência</string>
+    <string name="background_of_enabled_tile">Fundo do azulejo habilitado</string>
+    <string name="bar_name_title">Ocultar etiquetas do ícone na barra</string>
     <string name="bar_shadow_title">Ocultar a reflexão do ícone</string>
     <string name="base_avatar_title">A janela para chamada recebida</string>
     <string name="battery_level">Configuração de nível de carga</string>
@@ -9543,22 +9547,22 @@ Atualizar configurações para:
     <string name="battery_off_title">Quando totalmente carregado</string>
     <string name="battery_percent_title">Posição percentual</string>
     <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
-    <string name="behavior_icon_title">Esconder ações privadas \"</string>
-    <string name="bg_color_disabled_stroke_title">A cor da fronteira da telha com deficiência</string>
-    <string name="bg_color_disabled_stroke_width_title">A espessura do quadro da telha com deficiência</string>
-    <string name="bg_color_disabled_title">A cor de fundo da telha com deficiência</string>
-    <string name="bg_color_enabled_stroke_color_title">A cor do quadro da telha incluída</string>
-    <string name="bg_color_enabled_stroke_width_title">A espessura do quadro da telha incluída</string>
-    <string name="bg_color_enabled_title">Cor de fundo do telha habilitado</string>
-    <string name="big_tile_choice_settings_title">Valores de telhas grandes</string>
-    <string name="big_tile_choice_title">Grandes telhas configurações</string>
-    <string name="big_tile_color_settings_title">Cor de grandes telhas</string>
-    <string name="big_tile_corner_radius_title">O raio de arredondando os cantos da telha</string>
-    <string name="big_tile_off_title">Telha inativa</string>
-    <string name="big_tile_on_color_title">Cor de grandes telhas</string>
-    <string name="big_tile_on_title">Telha ativa</string>
-    <string name="big_tile_title">Aparência de grandes telhas</string>
-    <string name="blinking_dots_title">Pontos piscando em horas</string>
+    <string name="behavior_icon_title">Esconder ações \"privadas\"</string>
+    <string name="bg_color_disabled_stroke_title">A cor da borda do azulejo desativado</string>
+    <string name="bg_color_disabled_stroke_width_title">A espessura do quadro do azulejo desativado</string>
+    <string name="bg_color_disabled_title">A cor de fundo do azulejo desativado</string>
+    <string name="bg_color_enabled_stroke_color_title">A cor do quadro do azulejo incluído</string>
+    <string name="bg_color_enabled_stroke_width_title">A espessura do quadro do azulejo incluído</string>
+    <string name="bg_color_enabled_title">Cor de fundo do azulejo habilitado</string>
+    <string name="big_tile_choice_settings_title">Valores de azulejos grandes</string>
+    <string name="big_tile_choice_title">Configurações de azulejos grandes </string>
+    <string name="big_tile_color_settings_title">Cor de grandes azulejos</string>
+    <string name="big_tile_corner_radius_title">O raio de arredondamento dos cantos do azulejo</string>
+    <string name="big_tile_off_title">Azulejo inativo</string>
+    <string name="big_tile_on_color_title">Cor de grandes azulejos</string>
+    <string name="big_tile_on_title">Azulejo ativo</string>
+    <string name="big_tile_title">Aparência de azulejos grandes</string>
+    <string name="blinking_dots_title">Pontos piscando na exibição das horas</string>
     <string name="bluetooth_icon_title">Ocultar o ícone de Bluetooth.</string>
     <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Deixe acessar contatos</string>
     <string name="bluetooth_unlock_settings_unlock_summary">Este recurso funciona com dispositivos wearable selecionados feitos por Xiaomi</string>
@@ -9601,11 +9605,11 @@ Atualizar configurações para:
     <string name="call_tools_bottom_panel_margin_bottom">Recuo de baixo para a linha inferior de botões</string>
     <string name="call_tools_top_panel_margin_bottom">Recuo de baixo para a linha superior de botões</string>
     <string name="call_windows_title">Janela de chamada</string>
-    <string name="caller_name_size">Nomeie o tamanho da fonte</string>
+    <string name="caller_name_size">Tamanho da fonte</string>
     <string name="caller_name_size2">Nome Fonte ao falar</string>
     <string name="carrier_test">carrier_common_dir</string>
     <string name="category_button_title">Itens exibidos</string>
-    <string name="category_color_title">Itens cor</string>
+    <string name="category_color_title">Itens cores</string>
     <string name="cell_broadcast_receiver_package">com.android.cellbroadcastreceiver.module</string>
     <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
@@ -9946,10 +9950,10 @@ Atualizar configurações para:
     <string name="icon_size_title">Tamanho</string>
     <string name="icons_size_notiffications">Tamanho dos ícones de notificação</string>
     <string name="if_add_two_more_title">Adicione quinto e sexto telhas</string>
-    <string name="incall_background_title">Fullscreen sem fotos</string>
+    <string name="incall_background_title">Tela cheia sem fotos</string>
     <string name="incall_color_title">Cor da chamada recebida</string>
-    <string name="incall_small_background_title">Padrão sem fotos.</string>
-    <string name="incommingcall_title">Depois de Ingoing.</string>
+    <string name="incall_small_background_title">Fundo Padrão sem fotos.</string>
+    <string name="incommingcall_title">Depois de receber.</string>
     <string name="indent_from_the_top">Recuo a partir do topo para nome</string>
     <string name="indent_from_top_to_avatar">Travessão de cima para foto</string>
     <string name="info_names_text_color_title">Info nomes de cor de texto</string>
@@ -9967,7 +9971,7 @@ Atualizar configurações para:
     <string name="kddi_nfc_secure_toggle_summary">Guarda NFC/Osaifu-keitai somente quando o dispositivo é desbloqueado</string>
     <string name="key_call_title">Estado inicial</string>
     <string name="key_color_param_summary">Personalize a cor da chamada</string>
-    <string name="key_color_param_title">Chamada de cor</string>
+    <string name="key_color_param_title">Cor de Chamada</string>
     <string name="key_title">Botões na chamada</string>
     <string name="key_title_summary">Para exibir os botões na janela de chamada, deslize pelo número.Esconder, deslize de baixo para cima</string>
     <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
@@ -10043,7 +10047,7 @@ Valor atual: %s"</string>
     <string name="my_buttons_position_title">Aparência de botões</string>
     <string name="my_home_settings_title">Área de Trabalho</string>
     <string name="my_mobile_inout_title">Setas de troca de dados.</string>
-    <string name="my_mod_settings_title">Mod MiuiVN Gilmar</string>
+    <string name="my_mod_settings_title"><b><font color="#F93154">Mod MiuiVn G.S.S</font></b></string>
     <string name="my_net_type_title">Tipo de rede</string>
     <string name="my_picture_title">Foto da galeria</string>
     <string name="my_status_bar_settings_title">Barra de status</string>
@@ -10102,13 +10106,13 @@ Valor atual: %s"</string>
     <string name="numberpicker_change_title">Som ao definir o tempo</string>
     <string name="oaid_apps_summary">Permitir ou restringir o acesso para aplicativos individuais</string>
     <string name="oaid_apps_title">Gerenciar Virtual ID</string>
-    <string name="onscreen_add_call_text">Ocultar \"Adicionar chamada</string>
-    <string name="onscreen_call_record">Esconder \"Registro</string>
-    <string name="onscreen_contacts_text">Esconder \"Contatos</string>
+    <string name="onscreen_add_call_text">Esconder \"Adicionar chamada\"</string>
+    <string name="onscreen_call_record">Esconder \"Registro\"</string>
+    <string name="onscreen_contacts_text">Esconder \"Contatos\"</string>
     <string name="onscreen_hold_text">Esconder \"Segurar</string>
-    <string name="onscreen_mms_notes_text">Substitua notas \" por mensagens \"</string>
-    <string name="onscreen_mute_text">Esconder \"Muda</string>
-    <string name="onscreen_note_calls_text">Esconder \"Observação</string>
+    <string name="onscreen_mms_notes_text">Substitua notas \"por mensagens\"</string>
+    <string name="onscreen_mute_text">Esconder \"Mudo\"</string>
+    <string name="onscreen_note_calls_text">Esconder \"Observação\"</string>
     <string name="operator_color_title">Cor do operador</string>
     <string name="operator_division_factor_title">Deslocamento do operador na barra de status</string>
     <string name="operator_settings_title">Configurações do operador</string>
@@ -10168,7 +10172,7 @@ Abra o xiaomi nuvem e restaure itens de lá."</string>
     <string name="policy_control_title">Modo tela cheia</string>
     <string name="policy_title">Modos de tela</string>
     <string name="power_charging">%1$s - %2$s</string>
-    <string name="power_menu_title">PowerMenu avançado</string>
+    <string name="power_menu_title">Menu desligar avançado</string>
     <string name="power_notifications_title">Carregador de bateria</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_usage_enhanced_debug">%1$s esquerda (Nova ML é)</string>
@@ -10176,7 +10180,7 @@ Abra o xiaomi nuvem e restaure itens de lá."</string>
     <string name="powermenu_blur_color_title">Cor do Borrão</string>
     <string name="powermenu_blur_size_title">Borrão</string>
     <string name="powermenu_blur_title">Menu reiniciar com Borrão </string>
-    <string name="powermenu_setting_title">Configurações do menu Reboot</string>
+    <string name="powermenu_setting_title">Configurações do menu de reinicialização</string>
     <string name="powermenu_title">Desativar o menu de reinicialização expandido</string>
     <string name="pre_install_category_question">problema comum</string>
     <string name="pre_install_network_unavailable">Atualmente não conectado, por favor conecte primeiro</string>
@@ -10260,7 +10264,7 @@ Abra o xiaomi nuvem e restaure itens de lá."</string>
     <string name="settings_charging_at_top_speed">Carregamento na velocidade máxima</string>
     <string name="settings_charging_fully_charged">Completamente carregado</string>
     <string name="settings_charging_not_charging">Não está carregando</string>
-    <string name="settings_custom_clock_st">Configurando o relógio no bar</string>
+    <string name="settings_custom_clock_st">Configurando o relógio na barra</string>
     <string name="settings_custom_percent_st">Configurando porcentagens de carga</string>
     <string name="settings_custom_percent_title">Personalizando porcentagens</string>
     <string name="settings_package">com.android.settings</string>
@@ -10281,7 +10285,7 @@ Abra o xiaomi nuvem e restaure itens de lá."</string>
     <string name="show_blur_recent_title">Borrar o fundo na recente</string>
     <string name="show_btn_settings">Configurações para botões durante uma chamada</string>
     <string name="show_cards_summary">Substituindo cartões de saúde, tempo de tela e dados da lanterna</string>
-    <string name="show_cards_title">Desativar cartas</string>
+    <string name="show_cards_title">Desativar cartões</string>
     <string name="show_charging_animation_on_lockscreen_title">Mostrar animação de carregamento</string>
     <string name="show_group_title">Esconder grupos</string>
     <string name="show_icon_off_m">Escondida</string>
@@ -10289,7 +10293,7 @@ Abra o xiaomi nuvem e restaure itens de lá."</string>
     <string name="show_keyguard_key_summary">Capacidade de expandir uma mensagem recebida na tela de bloqueio</string>
     <string name="show_keyguard_key_title">Visualização de notificação</string>
     <string name="show_only_app_icons_title">Somente mostre ícones de aplicativos</string>
-    <string name="show_powermenu_summary">Desativando o menu Reinict quando a tela estiver bloqueada</string>
+    <string name="show_powermenu_summary">Desativando o menu reinicialização quando a tela estiver bloqueada</string>
     <string name="show_powermenu_title">Desativar o menu Reboot</string>
     <string name="show_profile_title">Ocultar perfil</string>
     <string name="show_search_title">Linha de pesquisa.</string>
@@ -10466,14 +10470,14 @@ Abra o xiaomi nuvem e restaure itens de lá."</string>
     <string name="tile_back_title">Cor do fundo da telha</string>
     <string name="tile_bg_custom_enabled_image_title">Fundo da galeria</string>
     <string name="tile_bg_custom_image_title">Escolha a partir da galeria</string>
-    <string name="tile_column_title">Número de linhas de azulejos</string>
-    <string name="tile_custom_settings">Configurando telhas</string>
+    <string name="tile_column_title">Número de linhas do ladrilho</string>
+    <string name="tile_custom_settings">Configurando ladrilhos</string>
     <string name="tile_custom_settings_title">Centro de Controle</string>
     <string name="tile_custom_settings_title1">Personalização grandes telhas</string>
-    <string name="tile_icon_color_title">Tile image color</string>
-    <string name="tile_is_title">Tile values</string>
-    <string name="tile_off_title">Telha desligada</string>
-    <string name="tile_on_title">Telha incluída</string>
+    <string name="tile_icon_color_title">Cor da imagem do ladrilho</string>
+    <string name="tile_is_title">Valores ladrilho</string>
+    <string name="tile_off_title">Ladrilho desligada</string>
+    <string name="tile_on_title">Ladrilho incluído</string>
     <string name="tile_radius_title">Raio de canto</string>
     <string name="tile_stroke_color_title">Cor do quadro de telha</string>
     <string name="tile_stroke_width_title">Largura da estrutura da telha</string>
@@ -10505,9 +10509,9 @@ Abra o xiaomi nuvem e restaure itens de lá."</string>
     <string name="toggles_columns_row_summary">Instalada: %s</string>
     <string name="toggles_columns_row_title">Número de linhas</string>
     <string name="toggles_columns_summary">% sem uma linha</string>
-    <string name="toggles_columns_title">Switches (uma linha)</string>
+    <string name="toggles_columns_title">Interruptores (uma linha)</string>
     <string name="toggles_count_title">Alterna na sombra expandida</string>
-    <string name="tools_panel_in_one_row">Botões em uma fileira</string>
+    <string name="tools_panel_in_one_row">Botões em uma linha</string>
     <string name="trigger_bottom_title">Altura da área de chamadas</string>
     <string name="trigger_category">Configurações de zona de chamadas</string>
     <string name="trigger_summary">Valor: %s</string>
