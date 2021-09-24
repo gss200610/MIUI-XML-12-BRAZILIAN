@@ -1,6 +1,167 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="disable_package_replacement">
-        <item>Desativar o nome do pacote</item>
-    </string-array>
+	<string-array name="alphabet_table">
+		<item>A</item>
+		<item>B</item>
+		<item>C</item>
+		<item>D</item>
+		<item>E</item>
+		<item>F</item>
+		<item>G</item>
+		<item>H</item>
+		<item>I</item>
+		<item>J</item>
+		<item>K</item>
+		<item>L</item>
+		<item>M</item>
+		<item>N</item>
+		<item>O</item>
+		<item>P</item>
+		<item>Q</item>
+		<item>R</item>
+		<item>S</item>
+		<item>T</item>
+		<item>U</item>
+		<item>V</item>
+		<item>W</item>
+		<item>X</item>
+		<item>Y</item>
+		<item>Z</item>
+		<item>\#</item>
+	</string-array>
+	<string-array name="alphabet_table_with_starred">
+		<item>!</item>
+		<item>A</item>
+		<item>B</item>
+		<item>C</item>
+		<item>D</item>
+		<item>E</item>
+		<item>F</item>
+		<item>G</item>
+		<item>H</item>
+		<item>I</item>
+		<item>J</item>
+		<item>K</item>
+		<item>L</item>
+		<item>M</item>
+		<item>N</item>
+		<item>O</item>
+		<item>P</item>
+		<item>Q</item>
+		<item>R</item>
+		<item>S</item>
+		<item>T</item>
+		<item>U</item>
+		<item>V</item>
+		<item>W</item>
+		<item>X</item>
+		<item>Y</item>
+		<item>Z</item>
+		<item>\#</item>
+	</string-array>
+	<string-array name="am_pms">
+		<item>@string/am</item>
+		<item>@string/pm</item>
+	</string-array>
+	<string-array name="apply_icon_choices">
+		<item>@string/de_apply_icons</item>
+		<item>@string/de_apply_icons_and_wallpaper</item>
+	</string-array>
+	<string-array name="chinese_days">
+		<item>@string/chinese_day_1</item>
+		<item>@string/chinese_day_2</item>
+		<item>@string/chinese_day_3</item>
+		<item>@string/chinese_day_4</item>
+		<item>@string/chinese_day_5</item>
+		<item>@string/chinese_day_6</item>
+		<item>@string/chinese_day_7</item>
+		<item>@string/chinese_day_8</item>
+		<item>@string/chinese_day_9</item>
+		<item>@string/chinese_day_10</item>
+		<item>@string/chinese_day_11</item>
+		<item>@string/chinese_day_12</item>
+		<item>@string/chinese_day_13</item>
+		<item>@string/chinese_day_14</item>
+		<item>@string/chinese_day_15</item>
+		<item>@string/chinese_day_16</item>
+		<item>@string/chinese_day_17</item>
+		<item>@string/chinese_day_18</item>
+		<item>@string/chinese_day_19</item>
+		<item>@string/chinese_day_20</item>
+		<item>@string/chinese_day_21</item>
+		<item>@string/chinese_day_22</item>
+		<item>@string/chinese_day_23</item>
+		<item>@string/chinese_day_24</item>
+		<item>@string/chinese_day_25</item>
+		<item>@string/chinese_day_26</item>
+		<item>@string/chinese_day_27</item>
+		<item>@string/chinese_day_28</item>
+		<item>@string/chinese_day_29</item>
+		<item>@string/chinese_day_30</item>
+	</string-array>
+	<string-array name="chinese_digits">
+		<item>@string/chinese_digit_zero</item>
+		<item>@string/chinese_digit_one</item>
+		<item>@string/chinese_digit_two</item>
+		<item>@string/chinese_digit_three</item>
+		<item>@string/chinese_digit_four</item>
+		<item>@string/chinese_digit_five</item>
+		<item>@string/chinese_digit_six</item>
+		<item>@string/chinese_digit_seven</item>
+		<item>@string/chinese_digit_eight</item>
+		<item>@string/chinese_digit_nine</item>
+		<item>@string/chinese_digit_ten</item>
+	</string-array>
+	<string-array name="chinese_leap_months">
+		<item>@string/empty</item>
+		<item>@string/chinese_leap</item>
+	</string-array>
+	<string-array name="chinese_months">
+		<item>@string/chinese_month_january</item>
+		<item>@string/chinese_month_february</item>
+		<item>@string/chinese_month_march</item>
+		<item>@string/chinese_month_april</item>
+		<item>@string/chinese_month_may</item>
+		<item>@string/chinese_month_june</item>
+		<item>@string/chinese_month_july</item>
+		<item>@string/chinese_month_august</item>
+		<item>@string/chinese_month_september</item>
+		<item>@string/chinese_month_october</item>
+		<item>@string/chinese_month_november</item>
+		<item>@string/chinese_month_december</item>
+	</string-array>
+	<string-array name="chinese_symbol_animals">
+		<item>@string/chinese_symbol_animals_mouse</item>
+		<item>@string/chinese_symbol_animals_cow</item>
+		<item>@string/chinese_symbol_animals_tiger</item>
+		<item>@string/chinese_symbol_animals_rabbit</item>
+		<item>@string/chinese_symbol_animals_dragon</item>
+		<item>@string/chinese_symbol_animals_snake</item>
+		<item>@string/chinese_symbol_animals_horse</item>
+		<item>@string/chinese_symbol_animals_sheep</item>
+		<item>@string/chinese_symbol_animals_monkey</item>
+		<item>@string/chinese_symbol_animals_chicken</item>
+		<item>@string/chinese_symbol_animals_dog</item>
+		<item>@string/chinese_symbol_animals_pig</item>
+	</string-array>
+	<string-array name="default_colors">
+		<item>\#ff0000</item>
+		<item>\#ff7f00</item>
+		<item>\#ffff00</item>
+		<item>\#800080</item>
+		<item>\#0000ff</item>
+		<item>\#00ff00</item>
+	</string-array>
+	<string-array name="detailed_am_pms">
+		<item>@string/midnight</item>
+		<item>@string/early_morning</item>
+		<item>@string/morning</item>
+		<item>@string/noon</item>
+		<item>@string/afternoon</item>
+		<item>@string/evening</item>
+		<item>@string/night</item>
+	</string-array>
+	<string-array name="disable_package_replacement">
+		<item>Desativar o nome do pacote</item>
+	</string-array>
 </resources>
