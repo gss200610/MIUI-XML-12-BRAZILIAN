@@ -58,14 +58,13 @@
         <item>Esquerda</item>
         <item>Direita</item>
     </string-array>
-
     <string-array name="wallpaper_scroll_values">
         <item>Por tema</item>
         <item>Centro</item>
         <item>esquerda</item>
         <item>certa</item>
-    </string-array>    
-   <string-array name="widget_component_add_source">
+    </string-array>
+    <string-array name="widget_component_add_source">
         <item>Selecionador de desktop</item>
         <item>Dentro da aplicação</item>
         <item>Atalho de aplicativo</item>
@@ -102,5 +101,5 @@
         <item>Foi instalado</item>
         <item>Pode ser atualizado</item>
     </string-array>
-    
+
 </resources>
